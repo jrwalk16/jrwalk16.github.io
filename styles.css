@@ -23,6 +23,7 @@ footer{
     grid-row: 3;
 }
 
+
 .left{
     grid-column: 1;
 }
@@ -33,4 +34,8 @@ footer{
 
 main{
     grid-column: 2;
+}
+
+img{
+    border-radius: 25%;
 }
