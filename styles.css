@@ -1,4 +1,8 @@
-h1{
+body{
+    background-color: powderblue;
+}
+
+div{
     color: blue;
 }
 
